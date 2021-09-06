@@ -1,0 +1,252 @@
+@font-face {
+    font-family: open_sans;
+    src: url(01173b246d9d9ea808ea75a26b3b61bb.woff);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+
+
+}
+body{
+height: 1760px;
+width: 100%;
+
+}
+.logo {
+    height: 42px;
+    width: 130px;
+    display: flex;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+#navbar {
+    
+    display: flex;
+    background-color: black;
+    justify-content: space-between;  
+}
+.navbar-container {
+    height: 80px;
+    width: 100%;
+    display: flex;
+    color: white;
+    justify-content: space-between; 
+}
+.navbar-items {
+    display: flex;
+    margin-right: 30px;
+    list-style: none;
+    justify-content: space-between;
+    font-size: 17px;
+    height: 80px;
+    width: 500px;
+    margin-top: 34px;
+    margin-right: 110px;
+    font-family: open_sans;
+    
+
+}
+
+.Container-spotify{
+    height: 550px;
+    width: 100%;
+    background-color: #b49bc8;
+    font-family: open_sans;
+    display: flex;
+    margin-bottom: 0;
+    
+   
+    
+}
+
+.text {
+    margin-left: 105px;
+    
+    margin-top: 90px;
+    font-family: open_sans;
+    height: 430px;
+    width: 700px;
+}
+
+.text h1  {
+    margin-top: 60px;
+    font-size: 60px;
+}
+
+.text p {
+    margin-top: 50px;
+    font-size: 22px;
+    font-style:normal;
+}
+
+.text button {
+    margin-top: 45px;
+    height: 48px;
+    width: 300px;
+    background-color: black;
+    color: white;
+    border: 0;
+    border-radius: 40px;
+    font-size: 18px;
+    font-family: open_sans;
+    
+
+}
+
+.imagess {
+    margin-top: 114px;
+    
+    margin-right: 105px ;
+}
+
+.container-baixar {
+    height: 600px;
+    width: 100%;
+    background-color: #2941ab;
+    position: absolute;
+    display: flex;
+    color: #1ed760;
+   
+}
+
+.container-baixar button{
+    background-color: #1ed760 ;
+    color: #2941ab;
+    
+
+}
+
+.container-bottom {
+    height: 400px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    margin-top: 600px ;
+    list-style: none;
+    
+    
+}
+
+.logo-baixo {
+    height: 42px;
+    width: 130px;
+    margin-top: 75px;
+    margin-left: 100px;
+}
+
+.lista1 {
+
+    color: white;
+    font-family: open_sans;
+    display: flex;
+    margin-left: 80px;
+    
+}
+
+.lista-item  {
+
+    list-style-type: none;
+    margin-bottom: 30px;
+}
+
+.lista2 {
+    color: white;
+    font-family: open_sans;
+    display: flex;
+    margin-left: 80px;
+}
+
+.lista3 {
+
+    color: white;
+    font-family: open_sans;
+    display: flex;
+    margin-left: 80px;
+}
+
+
+.listas {
+    margin-top: 100px;
+   
+}
+
+
+.instagram-item  {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 0;
+    margin-left: 10px;
+}
+
+.Facebook-item {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 0;
+    margin-left: 10px;
+
+}
+
+.Twitter-item {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 0;
+    margin-left: 10px;
+    
+}
+
+.buttons-social {
+    display: flex;
+    margin-left: 100px ;
+   
+}
+.fb {
+    width: 50%;
+}
+
+.insta {
+    width: 50%;
+}
+
+.barra-bottom {
+    height: 130px;
+    background-color: black;
+    display: flex;
+    color: white;
+   
+
+}
+
+.lista-bottom {
+    height: 130px;
+    background-color: black;
+    display: flex;
+    color: white;
+    
+
+}
+
+.barra-bottom {
+    display: flex;
+    padding-left: 30px;
+  
+}
+
+.linha-bottom ul  {
+    width: 520px;
+    font-family: open_sans;
+    font-size: 10px;
+    display: flex;
+    margin-left: 50px;
+    margin-top: 50px;
+    list-style-type: none;
+       
+}
+
+.lista-item-bottom {
+    margin-left: 20px;
+}
