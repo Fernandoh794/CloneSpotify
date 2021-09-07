@@ -247,9 +247,9 @@
     margin-left: 20px;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 500px) {
    body {
-       width: 100%;
+       width: 500px;
    }
 
     
@@ -278,7 +278,7 @@
 
 .navbar-container {
     height: 60px;
-    width: 100%;
+    width: 500px;
     display: flex;
     color: white;
     justify-content: space-between;
@@ -287,7 +287,7 @@
 }  
 .Container-spotify{
     height: 600px;
-    width: 100%;
+    width: 500px;
     background-color: #b49bc8;
     font-family: open_sans;
     display: flex;
@@ -323,28 +323,30 @@
     height: 200px;
     width: 340px;
     position: absolute;
-    margin-left: 320px;
+    margin-left: 220px;
    
 }
 
 .container-baixar {
     height: 300px;
-    width: 100%;
+    width: 500px;
     background-color: #2941ab;
     position: absolute;
     display: flex;
     color: #1ed760;
+    text-align: center;
 
 }  
 .container-bottom {
     height: 900px;
-    width: 100%;
+    width: 500px;
     background-color: black;
     position: absolute;
     margin-top: 300px ;
     list-style: none;
     display: flex;
     flex-direction: column;
+    
 }
 .logo-baixo{
     width: 120px;
@@ -416,4 +418,10 @@
 margin-left: 95px;
 }
 
+
+
 }
+
+
+
+
